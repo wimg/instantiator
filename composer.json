@@ -23,7 +23,9 @@
         "ext-pdo":                   "*",
         "phpunit/phpunit":           "~4.0",
         "squizlabs/php_codesniffer": "~2.0",
-        "athletic/athletic":         "~0.1.8"
+        "athletic/athletic":         "~0.1.8",
+        "wimg/php-compatibility":    "*",
+        "simplyadmire/composer-plugins" : "@dev",
     },
     "autoload": {
         "psr-4": {
